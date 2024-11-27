@@ -1,0 +1,15 @@
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+
+.margin-x{ margin-left: 5%; margin-right: 5%; }
+.margin-y{ margin-top: 30px; margin-bottom: 30px;}
+.width50{ width: 50%;}
+
+.text-center{ text-align: center;}
+.text-end{ text-align: end;}
+
+.d-inline-block{ display: inline-block;}
+
+.text-color{color: white;}
+.bg-color{ background-color: rgb(15, 187, 193);}
+
+.font-style{ font-family: sans-serif;}
