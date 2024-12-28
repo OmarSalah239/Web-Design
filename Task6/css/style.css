@@ -1,0 +1,12 @@
+:root{
+  --bg-main-color: #C2EFD4;
+  --txt-main-color: #224F34;
+}
+
+.bg-main-color{
+  background-color: var(--bg-main-color);
+}
+
+.txt-main-color{
+  color: var(--txt-main-color);
+}
