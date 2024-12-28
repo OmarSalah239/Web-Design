@@ -8,3 +8,21 @@
     background-size: cover;
 }
 
+.card-service{
+  position: relative;
+  overflow: hidden;
+  height: 250px;
+  border: 2px white solid;
+}
+
+.card-service .info {
+  position: absolute;
+  top: 100%;
+  height: 250px;
+  width: 100%;
+  transition: all 0.1s;
+}
+
+.card-service:hover .info{
+  top: 0%;
+}
