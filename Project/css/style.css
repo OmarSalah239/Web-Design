@@ -1,0 +1,10 @@
+/*to make items of nav bar blue when hover*/
+.nav-link:hover{
+    color: blue;
+}
+
+.contact-title{
+    background-image: url(../images/contact-bg.jpg);
+    background-size: cover;
+}
+
